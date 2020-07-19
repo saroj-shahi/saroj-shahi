@@ -1,6 +1,7 @@
 
 ### Hello from Saroj 👋 
 
+
 I am a self-taught multi-disciplinary digital designer with over 10 years of experience working in graphic and product design based in  [Kathmandu](https://goo.gl/maps/MD45ZGNX9iMKDKLt6), Nepal.
 
 Currently, working as a Lead Engineer - UI/UX at  [Leapfrog Technology](https://www.lftechnology.com/)
@@ -13,3 +14,4 @@ Currently, working as a Lead Engineer - UI/UX at  [Leapfrog Technology](https://
  - 💼 You can find out more of my work history on [Linkedin](https://www.linkedin.com/in/sarojshahi/)
   - 💻 And, here is [my personal website](https://www.sarojshahi.com/) with all of these links
 
+[![HitCount](http://hits.dwyl.com/saroj-shahi/saroj-shahi.svg)](http://hits.dwyl.com/saroj-shahi/saroj-shahi)

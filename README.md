@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**saroj-shahi/saroj-shahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello from Saroj 👋 
 
-Here are some ideas to get you started:
+I am a self-taught multi-disciplinary digital designer with over 10 years of experience working in graphic and product design based in  [Kathmandu](https://goo.gl/maps/MD45ZGNX9iMKDKLt6), Nepal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, working as a Lead Engineer - UI/UX at  [Leapfrog Technology](https://www.lftechnology.com/)
+  
+  #### Apart from that:
+ - 🐦 I share my random thoughts on twitter [@sarooooj](https://twitter.com/sarooooj) 
+ - 📝 I have written some articles in [Medium blog](https://medium.com/@sarojshahi)
+ - 🏀 Checkout my lastest design shots on [Dribbble](https://dribbble.com/sarojshahi), [Behance](https://www.behance.net/sarojshahi) & [Work Instagram](https://www.instagram.com/_sarojshahi/)
+ - 📷 I love taking photos and I post them on [Instagram](https://www.instagram.com/sarooooj_/), [Unsplash](https://unsplash.com/@sarojshahi) & [500px](http://500px.com/sarojshahi)
+ - 💼 You can find out more of my work history on [Linkedin](https://www.linkedin.com/in/sarojshahi/)
+  - 💻 And, here is [my personal website](https://www.sarojshahi.com/) with all of these links
+

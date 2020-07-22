@@ -10,6 +10,4 @@ Currently, working as a **Lead Engineer - UI/UX** at  [Leapfrog Technology](http
  - 📷 I love taking photos and I post them on [Instagram](https://www.instagram.com/sarooooj_/), [Unsplash](https://unsplash.com/@sarojshahi) & [500px](http://500px.com/sarojshahi)
  - 💼 You can find out more of my work history on [Linkedin](https://www.linkedin.com/in/sarojshahi/)
   - 💻 And, here is [my personal website](https://www.sarojshahi.com/) with all of these links
----
 
-[![HitCount](http://hits.dwyl.com/saroj-shahi/saroj-shahi.svg)](http://hits.dwyl.com/saroj-shahi/saroj-shahi)

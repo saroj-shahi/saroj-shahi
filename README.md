@@ -12,4 +12,4 @@ Currently, working as a **Lead Engineer - UI/UX** at  [Leapfrog Technology](http
   - 💻 And, here is [my personal website](https://www.sarojshahi.com/) with all of these links
 ---
 
-[![HitCount](http://hits.dwyl.com/saroj-shahi/saroj-shahi/saroj-shahi.svg)](http://hits.dwyl.com/saroj-shahi/saroj-shahi/saroj-shahi)
+[![HitCount](http://hits.dwyl.com/saroj-shahi/saroj-shahi.svg)](http://hits.dwyl.com/saroj-shahi/saroj-shahi)

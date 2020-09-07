@@ -2,7 +2,7 @@
 
 I am a self-taught multi-disciplinary digital designer with over 10 years of experience working in graphic and product design based in  [Kathmandu](https://goo.gl/maps/MD45ZGNX9iMKDKLt6), Nepal.
 
-Currently, working as a **Lead Engineer - UI/UX** at  [Leapfrog Technology](https://www.lftechnology.com/)
+Currently, working as a **Lead Product Designer** at  [Leapfrog Technology](https://www.lftechnology.com/)
 
  - 🐦 I share my random thoughts on twitter [@sarooooj](https://twitter.com/sarooooj) 
  - 📝 I have written some articles in [Medium blog](https://medium.com/@sarojshahi)

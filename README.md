@@ -1,6 +1,6 @@
 ### Hello from Saroj 👋 
 
-I am a self-taught multi-disciplinary digital designer with over 10 years of experience working in graphic and product design based in  [Kathmandu](https://goo.gl/maps/MD45ZGNX9iMKDKLt6), Nepal.
+I am a self-taught multi-disciplinary digital designer with over 10+ years of experience working in graphic and product design based in  [Kathmandu](https://goo.gl/maps/MD45ZGNX9iMKDKLt6), Nepal.
 
 Currently, working as a **Principal Product Designer** at  [Leapfrog Technology](https://www.lftechnology.com/)
 

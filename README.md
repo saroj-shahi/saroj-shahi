@@ -1,6 +1,7 @@
 ### Hi I'm Saroj, a Product Designer from Kathmandu 🇳🇵. 👋 
 
-Product Design Leader with over a decade of experience delivering innovative, user-centric solutions across diverse industries including Healthcare, Fintech, E-commerce, and Ed-tech. Proven expertise in leading cross-functional teams, building scalable design systems, and driving product ideation from concept to execution. Adept at mentoring designers, streamlining design workflows, and enhancing user experiences that meet business goals. Strong proficiency in UI/UX design, rapid prototyping, and design research, focusing on collaboration, leadership, and continuous innovation.
+I design, lead a team of designers, and leverage AI to ship complex solutions.
+Product designer and design leader with 15+ years—leading a team of designers, connecting strategy, craft, and delivery to ship solutions that move the business.
 
 Currently, working as a **Design Architect & Design Manager** at  [Leapfrog Technology](https://www.lftechnology.com/)
 

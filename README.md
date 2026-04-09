@@ -1,4 +1,4 @@
-### Hi I'm Saroj, a Product Designer from Kathmandu 🇳🇵. 👋 
+### I'm Saroj, a product designer & design leader based in Kathmandu🇳🇵. 👋 
 
 I design, lead a team of designers, and leverage AI to ship complex solutions.
 Product designer and design leader with 15+ years—leading a team of designers, connecting strategy, craft, and delivery to ship solutions that move the business.

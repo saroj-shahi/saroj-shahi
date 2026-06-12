@@ -1,9 +1,8 @@
 ### I'm Saroj, a product designer & design leader based in Kathmandu🇳🇵. 👋 
 
-I design, lead a team of designers, and leverage AI to ship complex solutions.
-Product designer and design leader with 15+ years—leading a team of designers, connecting strategy, craft, and delivery to ship solutions that move the business.
+Product designer and design leader with 15+ years of experience — leading a team of 20+ designers and leveraging AI to ship complex solutions, connecting strategy, craft, and delivery to move the business.
 
-Currently, working as a **Design Architect & Design Manager** at  [Leapfrog Technology](https://www.lftechnology.com/)
+Currently, working as a **Design Architect & Manager** at [Leapfrog Technology](https://www.lftechnology.com/)
 
  - 🚀 I am a top contributor on Figma Community [@saroj](https://www.figma.com/@saroj) 
  - 🐦 I share my random thoughts on X [@sarooooj](https://twitter.com/sarooooj) 

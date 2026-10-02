@@ -1,65 +1,35 @@
-<div align="center">
+# Saroj Shahi
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Saroj+%F0%9F%91%8B;Product+Designer+%26+Design+Leader;Based+in+Kathmandu+%F0%9F%87%B3%F0%9F%87%B5;Leading+20%2B+Designers;Shipping+with+AI+%F0%9F%9A%80)](https://git.io/typing-svg)
+**Design Architect & Manager at [Leapfrog Technology](https://www.lftechnology.com/)** · Kathmandu, Nepal 🇳🇵
 
-</div>
+I'm a product designer and design leader with 15+ years of experience. I lead a team of
+20+ designers, and we use AI throughout our process to ship complex products. My work sits
+where strategy, craft and delivery meet, and I measure it by whether it moves the business.
 
-Product designer and design leader with **15+ years of experience** — leading a team of
-20+ designers and leveraging AI to ship complex solutions, connecting strategy, craft, and
-delivery to move the business.
+### What I do
 
-Currently working as a **Design Architect & Manager** at [Leapfrog Technology](https://www.lftechnology.com/) 🚀
+- **Design leadership:** building and mentoring a 20+ person design practice, and setting the bar for craft and process
+- **Product design:** turning complex problems into clear, usable products, from strategy to shipped UI
+- **AI-augmented workflows:** bringing AI into research, design and handoff so teams ship faster without losing quality
+- **Community:** sharing resources as a top contributor on [Figma Community](https://www.figma.com/@saroj)
 
 <details>
-<summary>🧭 More about what I do</summary>
-<br>
+<summary><b>How I work</b></summary>
 
-- Bridge strategy, craft, and delivery so design decisions move the business, not just the pixels
-- Lead and grow a 20+ person design team, setting the bar for craft and process
-- Use AI throughout the design-to-delivery pipeline to ship complex products faster
-- Top contributor on the [Figma Community](https://www.figma.com/@saroj)
+- Start from the business outcome, then design backwards to the interface
+- Craft matters: details are where trust is earned
+- Design is a team sport: strong systems and strong people scale better than heroics
+- Ship, learn, refine
 
 </details>
 
-<details>
-<summary>💼 Work history</summary>
-<br>
+### Outside of work
 
-Full work history is on [LinkedIn](https://www.linkedin.com/in/sarojshahi/).
-
-</details>
-
-<details>
-<summary>🌐 Everything in one place</summary>
-<br>
-
-All of the links below (and more) live on [my personal website](https://www.sarojshahi.com/).
-
-</details>
+I'm a photographer at heart. You'll find my photos on
+[Instagram](https://www.instagram.com/sarooooj_/), [Unsplash](https://unsplash.com/@sarojshahi) and [500px](http://500px.com/sarojshahi).
 
 ---
 
-### 🔗 Find me around the web
+**Work** &nbsp; [Dribbble](https://dribbble.com/sarojshahi) · [Behance](https://www.behance.net/sarojshahi) · [Figma](https://www.figma.com/@saroj) · [Instagram](https://www.instagram.com/_sarojshahi/)
 
-**Design work**
-
-[![Figma](https://img.shields.io/badge/Figma-@saroj-1E1E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@saroj)
-[![Dribbble](https://img.shields.io/badge/Dribbble-sarojshahi-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/sarojshahi)
-[![Behance](https://img.shields.io/badge/Behance-sarojshahi-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/sarojshahi)
-
-**Social & thoughts**
-
-[![X](https://img.shields.io/badge/X-@sarooooj-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/sarooooj)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sarojshahi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarojshahi/)
-[![Instagram (work)](https://img.shields.io/badge/Instagram-_sarojshahi_(work)-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_sarojshahi/)
-
-**Photography**
-
-[![Instagram](https://img.shields.io/badge/Instagram-sarooooj__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sarooooj_/)
-[![Unsplash](https://img.shields.io/badge/Unsplash-@sarojshahi-000000?style=for-the-badge&logo=unsplash&logoColor=white)](https://unsplash.com/@sarojshahi)
-[![500px](https://img.shields.io/badge/500px-sarojshahi-0099E5?style=for-the-badge&logo=500px&logoColor=white)](http://500px.com/sarojshahi)
-
-**Website**
-
-[![Website](https://img.shields.io/badge/sarojshahi.com-visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.sarojshahi.com/)
-
+**Connect** &nbsp; [LinkedIn](https://www.linkedin.com/in/sarojshahi/) · [X](https://twitter.com/sarooooj) · [sarojshahi.com](https://www.sarojshahi.com/)
